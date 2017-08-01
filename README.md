@@ -3,6 +3,8 @@ Followed a tutorial to setup a react app with webpack. Using webpack 3, node 8 a
 
 `npm install`
 
-```npm run build
+```
+npm run build
 npm run build:prod
-npm run watch-and-serve```
+npm run watch-and-serve
+```
